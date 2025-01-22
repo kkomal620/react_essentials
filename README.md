@@ -1,1 +1,1 @@
-# react_essentials
+# react_essentials by Komal
